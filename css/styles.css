@@ -260,6 +260,24 @@ img {
         color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-container {
+        padding-top: 60px;
+        padding-bottom: 60px;
+}
+
+.footer-logo {
+        margin-bottom: 20px;
+}
+
+.link-footer-items {
+        margin-bottom: 9px;
+}
+
+.link-footer-items:last-child {
+        margin-bottom: 0;
+}
+
+
 .link-location {
          color: var(--white-text-cl);
 }
